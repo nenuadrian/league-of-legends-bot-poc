@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LocationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-13T17:41:31" hostname="Adrians-MacBook-Pro.local" time="1.197">
-  <properties/>
-  <testcase name="recognitionTest" classname="LocationTest" time="1.197"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
